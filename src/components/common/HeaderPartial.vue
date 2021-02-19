@@ -185,6 +185,7 @@ export default {
   h2 {
     color: #3090c3 !important;
   }
+  .active,
   .color1 {
     color: #3090c3 !important;
   }
