@@ -26,7 +26,7 @@
             <div class="navigation ">
               <nav>
                 <ul class="sf-menu">
-                 <li class="current">
+                 <li>
                    <router-link
                            :to="'/'"
                            tag="a"
@@ -158,7 +158,7 @@
 
 <script>
 export default {
-
+  name: "HeaderPartial"
 }
 </script>
 
